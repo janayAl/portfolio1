@@ -86,7 +86,36 @@
     a{
       text-decoration: none;
     }
+
+    .hero-text {
+        display: flex;
+        justify-content: center;
+        align-items: left;
+        flex-direction: column;
+        position:absolute;
+        top: 35%;
+        font-size: 25px;
+        color:black;
+        text-transform: uppercase;
+        z-index: 2;
+    }
     
+    .firstword {
+        color:black;
+    
+    }
+
+    .resume-cta {
+        border: 2px solid black;
+        width: 150px;
+        padding: 10px;
+        margin-top: 20px;
+    }
+
+    .resume-cta:hover{
+background-color: blanchedalmond;
+
+    }
     
     
     
