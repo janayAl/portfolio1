@@ -67,7 +67,7 @@
       height: 100%;
       width: 100%;
       margin: 0vh;
-      animation: scale 15s;
+      animation: scale 5s;
     }
     
     @keyframes scale {
@@ -114,6 +114,7 @@
 
     .resume-cta:hover{
 background-color: blanchedalmond;
+
 
     }
     
