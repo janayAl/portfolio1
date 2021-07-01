@@ -68,6 +68,7 @@
       width: 100%;
       margin: 0vh;
       animation: scale 5s;
+    
     }
     
     @keyframes scale {
@@ -85,6 +86,7 @@
     
     a{
       text-decoration: none;
+     
     }
 
     .hero-text {
@@ -116,13 +118,48 @@
     .resume-cta:hover{
 background-color: blanchedalmond;
 
+ }
+.contentcontainer {
+  display:flex;
+  padding-left: 24px;
+  padding-right: 24pt;
+  justify-content: center;
+  
+  
+}
+   
+    .middlecolumn1 {
+
+      display: flex;
+      flex-direction: column;
+      flex:0.25;
+      flex-wrap: wrap;
+      
+
+    }
+
+    .middlecolumn2 {
+
+      display: flex;
+      flex-direction: column;
+      flex: 50%;
+      flex-wrap: wrap;
+     
+     
+      
+
+    }
+    .middlecolumn3 {
+
+      display: flex;
+      flex-direction: column;
+      flex:0.25;
+      flex-wrap: wrap;
+      
 
     }
     
-    
-    
-    
-    
+   
     
     
     
