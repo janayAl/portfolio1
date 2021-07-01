@@ -124,8 +124,9 @@ background-color: blanchedalmond;
   padding-left: 24px;
   padding-right: 24pt;
   justify-content: center;
-  
-  
+   border-style: solid;
+  border-color: cadetblue;
+
 }
    
     .middlecolumn1 {
@@ -134,7 +135,7 @@ background-color: blanchedalmond;
       flex-direction: column;
       flex:0.25;
       flex-wrap: wrap;
-      
+    
 
     }
 
@@ -144,6 +145,8 @@ background-color: blanchedalmond;
       flex-direction: column;
       flex: 50%;
       flex-wrap: wrap;
+     
+      
      
      
       
@@ -155,10 +158,15 @@ background-color: blanchedalmond;
       flex-direction: column;
       flex:0.25;
       flex-wrap: wrap;
-      
-
-    }
+  
     
+    
+    }
+      footer {
+        align-content: center;
+      }
+
+  
    
     
     
