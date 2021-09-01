@@ -115,16 +115,16 @@ footer{
     } */
     
     
-    /* ul{
+    ul{
       display: flex;
       align-items: center;
       justify-content: space-between;
       padding: 0 10%;
       list-style: none;
       height: 10vh;
-      background-color:yellow;
     
-    }
+    
+    } 
     
     li a{
       display: block;
@@ -157,7 +157,13 @@ footer{
       /* overflow: hidden; */
     
     }
-    
+      /* .hero-image {
+                    background-image: url(images/IMG_0253_Original.JPG);
+                    height: 500;
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover; 
+      } */
     /* .image-container {
       position: relative;
       background-image: url(images/IMG_0253_Original.JPG);
