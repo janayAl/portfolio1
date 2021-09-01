@@ -30,41 +30,41 @@ nav{
 }
 
 main{
-  background:rgb(39, 204, 226);
+  background:paleturquoise;
   grid-area:main;
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
 }
 
 #sidebar{
-background:lightskyblue;
+background:paleturquoise;
 grid-area: sidebar;
 border-radius: var(--main-radius);
 padding-top: var(--main-padding);
 }
 
 #content1{
-  background: rgb(102, 163, 224);
+  background:paleturquoise;
   grid-area: content1;
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
 }
 
 #content2{
-  background: rgb(105, 153, 201);
+  background:paleturquoise;
   grid-area: content2;
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
 }
 
 #content3{
-  background:teal;
+  background:paleturquoise;
   grid-area: content3;
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
 }
 footer{
-  background:seagreen;
+  background:paleturquoise;
   grid-area: footer;
   border-radius: var(--main-radius);
   padding-top: var(--main-padding);
