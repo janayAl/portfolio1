@@ -154,11 +154,11 @@ footer{
       height: 100vh;
       width: 100%;
       width: 100%;
-      overflow: hidden;
+      /* overflow: hidden; */
     
     }
     
-    .image-container {
+    /* .image-container {
       position: relative;
       background-image: url(images/IMG_0253_Original.JPG);
       background-size: cover;
@@ -167,8 +167,8 @@ footer{
       width: 100%;
       margin: 0vh;
       animation: scale 5s;
-    
-    /* } */ */
+     */
+    /* } */ 
     
     /* @keyframes scale {
       0% {
